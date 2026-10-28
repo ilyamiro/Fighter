@@ -21,3 +21,4 @@ Enter subject's weight (kg): 80
 Enter an estimated fight skill level (1-10): 5
 ```
 Skill level is an estimated value for someone's technique fighting abilities 
+Weight is judged relative to height (BMI): extra mass counts fully in the healthy/muscular range and is discounted when very lean or very heavy for the frame. Decimals are accepted for age, height, weight and skill.
